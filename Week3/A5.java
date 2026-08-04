@@ -15,5 +15,6 @@ public class A5 {
                 System.out.print(i + " ");
             }
         }
+        
     }
 }
