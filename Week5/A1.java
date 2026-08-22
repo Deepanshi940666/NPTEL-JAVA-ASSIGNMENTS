@@ -20,4 +20,5 @@ public class A1{
         int i = sc.nextInt();
         System.out.print(a.findSqr(i));
     }
+    
 }
