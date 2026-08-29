@@ -24,5 +24,4 @@ public class W06_P5 {
 
         sc.close();
     }
-    
 }
