@@ -21,7 +21,6 @@ public class W06_P5 {
         } catch (Exception e) {
             System.out.println("Cannot calculate square root of negative number");
         }
-
         sc.close();
     }
 }
