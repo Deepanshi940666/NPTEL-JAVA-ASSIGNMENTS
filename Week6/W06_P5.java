@@ -9,7 +9,6 @@ public class W06_P5 {
         }
         return Math.sqrt(num);
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
