@@ -18,7 +18,6 @@ public class W06_P4 {
             // Print final message, runs always
             System.out.println("Program Ended");
         }
-
         sc.close();
     }
 }
