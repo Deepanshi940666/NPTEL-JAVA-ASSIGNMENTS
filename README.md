@@ -1,1 +1,1 @@
-Here is my NPTEL Java code 
+Here is my NPTEL Java code of Daily 
